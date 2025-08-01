@@ -1,6 +1,6 @@
-# Blog Title :link: https://qd16.github.io/qd16 
-### :page_facing_up: [1](https://qd16.github.io/qd16/tag.html) 
+# Leige's Notes :link: http://leige.us.kg 
+### :page_facing_up: [0](http://leige.us.kg/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 9 
-### :alarm_clock: 2025-08-01 10:31:52 
+### :hibiscus: 0 
+### :alarm_clock: 2025-08-01 10:44:03 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
